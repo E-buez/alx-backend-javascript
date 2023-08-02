@@ -1,1 +1,1 @@
-# Solutions to tasks on 0x00. ES6 Basics
+# 0x03-ES6_data_manipulation
